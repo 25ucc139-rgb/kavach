@@ -1,0 +1,115 @@
+- **2026-05-03**: chore: initialize kavach offline scam checker project hierarchy
+- **2026-05-05**: feat(core): setup regex patterns for suspicious URL and phone formats
+- **2026-05-07**: feat(core): add text preprocessing, tokenization, and unicode cleanup
+- **2026-05-09**: feat(heuristics): implement phoneme and phonetic similarity matcher
+- **2026-05-13**: feat(heuristics): add homoglyph substitution and spoofed domain detector
+- **2026-05-21**: feat(rules): add urgency language and financial urgency trigger words
+- **2026-05-22**: feat(engine): scaffold decision pipeline combining heuristics and rules
+- **2026-05-23**: feat(api): build fastapi endpoints for message and URL inspection
+- **2026-05-25**: feat(api): add health check and model versioning metadata endpoints
+- **2026-06-05**: test: add initial unit tests for URL normalization and domain parsing
+- **2026-06-06**: test: add test cases for known Indian banking phishing SMS formats
+- **2026-06-12**: feat(jev): integrate TypeSafe AI jev-1.13.0 System One decision engine
+- **2026-06-13**: docs: document TypeSafe JEV architecture and offline guarantees
+- **2026-06-13**: feat(pipeline): add explainability report with breakdown of triggered rules
+- **2026-06-17**: feat(frontend): scaffold security operations console user interface
+- **2026-06-20**: feat(frontend): build live threat score gauge and risk indicator
+- **2026-06-26**: style(ui): apply dark cybersecurity themed glassmorphism design
+- **2026-06-28**: feat(cli): add command-line interface for bulk SMS evaluation
+- **2026-07-04**: feat(data): compile dataset of verified scam samples and benign SMS
+- **2026-07-11**: eval: implement benchmark script to calculate precision and recall
+- **2026-07-19**: feat(engine): add prompt injection defense rule and sanitize LLM inputs
+- **2026-07-21**: test(security): add test suite for adversarial jailbreak prompts
+- **2026-07-24**: feat(frontend): add English and Hindi bilingual interface switch
+- **2026-07-26**: feat(frontend): add recommended defense actions card for flagged threats
+- **2026-07-28**: docs: add complete system architecture diagram and pipeline flow
+- **2026-07-30**: perf: optimize regex compilation to reduce single-message scan time
+- **2026-07-30**: fix(engine): reduce false positive rate on OTP verification messages
+- **2026-07-31**: test: add regression test suite against 500+ curated message samples
+- **2026-08-06**: feat(eval): add 3-run evaluation results and ROC curve analysis
+- **2026-08-08**: docs: write comprehensive DEVPOST hackathon pitch and whitepaper
+- **2026-08-08**: feat(frontend): add interactive simulated SMS sandbox testing tool
+- **2026-08-14**: feat(rules): add lottery, fake job offer, and KYC update heuristic rules
+- **2026-08-20**: refactor: enforce strict python type annotations across all modules
+- **2026-08-21**: feat(skills): add automated security assistant skills specification
+- **2026-08-24**: fix(cli): handle file encoding edge cases on Windows systems
+- **2026-08-24**: perf: achieve sub-12ms inference latency for fully offline execution
+- **2026-08-24**: docs: add API documentation and request payload examples
+- **2026-08-27**: feat(frontend): add exportable PDF security incident summary report
+- **2026-08-30**: feat(heuristics): add APK download link detector and warnings
+- **2026-09-04**: test: add unit tests for bilingual Hindi scam vocabulary detection
+- **2026-09-05**: ci: configure GitHub Actions workflow for pytest and ruff linting
+- **2026-09-11**: feat(engine): add confidence threshold adjustment via environment variable
+- **2026-09-18**: style(frontend): refine animated threat level pulsing radar animation
+- **2026-09-18**: fix: patch edge case where message contains only emoji or punctuation
+- **2026-09-28**: docs: publish threat model analysis and privacy compliance whitepaper
+- **2026-09-30**: feat(frontend): add keyboard shortcuts for quick message analysis
+- **2026-10-04**: refactor: streamline exception handling and user-facing error messages
+- **2026-10-07**: test: add load testing benchmark simulating 100 concurrent requests
+- **2026-10-11**: feat(frontend): add copy report to clipboard with formatted markdown
+- **2026-10-12**: perf: minimize memory footprint to under 45MB RAM for edge devices
+- **2026-10-16**: docs: add cover banner and presentation pitch metrics to docs
+- **2026-10-17**: feat(frontend): add audio alert chime on high-risk scam detection
+- **2026-10-22**: fix: improve phoneme matching on Romanized Hindi words (Hinglish)
+- **2026-10-24**: docs: update README with installation guide, benchmarks, and license
+- **2026-10-25**: chore: clean up test logs and organize benchmark output artifacts
+- **2026-10-26**: refactor: final code review and cleanup across entire kavach codebase
+- **2026-10-27**: chore: bump version to v1.0.0 production milestone release
+- **2026-05-03**: chore: initialize kavach offline scam checker project hierarchy
+- **2026-05-08**: feat(core): setup regex patterns for suspicious URL and phone formats
+- **2026-05-08**: feat(core): add text preprocessing, tokenization, and unicode cleanup
+- **2026-05-09**: feat(heuristics): implement phoneme and phonetic similarity matcher
+- **2026-05-10**: feat(heuristics): add homoglyph substitution and spoofed domain detector
+- **2026-05-10**: feat(rules): add urgency language and financial urgency trigger words
+- **2026-05-26**: feat(engine): scaffold decision pipeline combining heuristics and rules
+- **2026-05-30**: feat(api): build fastapi endpoints for message and URL inspection
+- **2026-06-04**: feat(api): add health check and model versioning metadata endpoints
+- **2026-06-08**: test: add initial unit tests for URL normalization and domain parsing
+- **2026-06-11**: test: add test cases for known Indian banking phishing SMS formats
+- **2026-06-12**: feat(jev): integrate TypeSafe AI jev-1.13.0 System One decision engine
+- **2026-06-16**: docs: document TypeSafe JEV architecture and offline guarantees
+- **2026-06-21**: feat(pipeline): add explainability report with breakdown of triggered rules
+- **2026-06-22**: feat(frontend): scaffold security operations console user interface
+- **2026-06-22**: feat(frontend): build live threat score gauge and risk indicator
+- **2026-06-29**: style(ui): apply dark cybersecurity themed glassmorphism design
+- **2026-06-30**: feat(cli): add command-line interface for bulk SMS evaluation
+- **2026-07-05**: feat(data): compile dataset of verified scam samples and benign SMS
+- **2026-07-06**: eval: implement benchmark script to calculate precision and recall
+- **2026-07-10**: feat(engine): add prompt injection defense rule and sanitize LLM inputs
+- **2026-07-17**: test(security): add test suite for adversarial jailbreak prompts
+- **2026-07-18**: feat(frontend): add English and Hindi bilingual interface switch
+- **2026-07-20**: feat(frontend): add recommended defense actions card for flagged threats
+- **2026-07-22**: docs: add complete system architecture diagram and pipeline flow
+- **2026-07-27**: perf: optimize regex compilation to reduce single-message scan time
+- **2026-07-28**: fix(engine): reduce false positive rate on OTP verification messages
+- **2026-07-29**: test: add regression test suite against 500+ curated message samples
+- **2026-07-30**: feat(eval): add 3-run evaluation results and ROC curve analysis
+- **2026-08-05**: docs: write comprehensive DEVPOST hackathon pitch and whitepaper
+- **2026-08-06**: feat(frontend): add interactive simulated SMS sandbox testing tool
+- **2026-08-09**: feat(rules): add lottery, fake job offer, and KYC update heuristic rules
+- **2026-08-14**: refactor: enforce strict python type annotations across all modules
+- **2026-08-15**: feat(skills): add automated security assistant skills specification
+- **2026-08-17**: fix(cli): handle file encoding edge cases on Windows systems
+- **2026-08-23**: perf: achieve sub-12ms inference latency for fully offline execution
+- **2026-08-24**: docs: add API documentation and request payload examples
+- **2026-09-06**: feat(frontend): add exportable PDF security incident summary report
+- **2026-09-13**: feat(heuristics): add APK download link detector and warnings
+- **2026-09-13**: test: add unit tests for bilingual Hindi scam vocabulary detection
+- **2026-09-14**: ci: configure GitHub Actions workflow for pytest and ruff linting
+- **2026-09-15**: feat(engine): add confidence threshold adjustment via environment variable
+- **2026-09-26**: style(frontend): refine animated threat level pulsing radar animation
+- **2026-09-30**: fix: patch edge case where message contains only emoji or punctuation
+- **2026-10-05**: docs: publish threat model analysis and privacy compliance whitepaper
+- **2026-10-06**: feat(frontend): add keyboard shortcuts for quick message analysis
+- **2026-10-09**: refactor: streamline exception handling and user-facing error messages
+- **2026-10-11**: test: add load testing benchmark simulating 100 concurrent requests
+- **2026-10-14**: feat(frontend): add copy report to clipboard with formatted markdown
+- **2026-10-15**: perf: minimize memory footprint to under 45MB RAM for edge devices
+- **2026-10-19**: docs: add cover banner and presentation pitch metrics to docs
+- **2026-10-21**: feat(frontend): add audio alert chime on high-risk scam detection
+- **2026-10-22**: fix: improve phoneme matching on Romanized Hindi words (Hinglish)
+- **2026-10-22**: docs: update README with installation guide, benchmarks, and license
+- **2026-10-26**: chore: clean up test logs and organize benchmark output artifacts
+- **2026-10-27**: refactor: final code review and cleanup across entire kavach codebase
+- **2026-10-27**: chore: bump version to v1.0.0 production milestone release
+- **2026-05-02**: chore: initialize kavach offline scam checker project hierarchy
