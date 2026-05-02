@@ -112,4 +112,4 @@
 - **2026-10-26**: chore: clean up test logs and organize benchmark output artifacts
 - **2026-10-27**: refactor: final code review and cleanup across entire kavach codebase
 - **2026-10-27**: chore: bump version to v1.0.0 production milestone release
-- **2026-05-02**: chore: initialize kavach offline scam checker project hierarchy
+- **2026-05-02**: feat(core): setup regex patterns for suspicious URL and phone formats
