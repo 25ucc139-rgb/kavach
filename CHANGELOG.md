@@ -114,3 +114,4 @@
 - **2026-10-27**: chore: bump version to v1.0.0 production milestone release
 - **2026-05-02**: feat(core): setup regex patterns for suspicious URL and phone formats
 - **2026-05-09**: feat(core): add text preprocessing, tokenization, and unicode cleanup
+- **2026-05-15**: feat(heuristics): implement phoneme and phonetic similarity matcher
