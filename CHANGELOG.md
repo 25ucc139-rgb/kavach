@@ -116,3 +116,4 @@
 - **2026-05-09**: feat(core): add text preprocessing, tokenization, and unicode cleanup
 - **2026-05-15**: feat(heuristics): implement phoneme and phonetic similarity matcher
 - **2026-05-17**: feat(heuristics): add homoglyph substitution and spoofed domain detector
+- **2026-05-21**: feat(rules): add urgency language and financial urgency trigger words
