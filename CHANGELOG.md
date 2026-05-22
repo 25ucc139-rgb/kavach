@@ -118,3 +118,4 @@
 - **2026-05-17**: feat(heuristics): add homoglyph substitution and spoofed domain detector
 - **2026-05-21**: feat(rules): add urgency language and financial urgency trigger words
 - **2026-05-22**: feat(engine): scaffold decision pipeline combining heuristics and rules
+- **2026-05-22**: feat(api): build fastapi endpoints for message and URL inspection
