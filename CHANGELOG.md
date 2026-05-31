@@ -121,3 +121,4 @@
 - **2026-05-22**: feat(api): build fastapi endpoints for message and URL inspection
 - **2026-05-23**: feat(api): add health check and model versioning metadata endpoints
 - **2026-05-31**: test: add initial unit tests for URL normalization and domain parsing
+- **2026-05-31**: test: add test cases for known Indian banking phishing SMS formats
