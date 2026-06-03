@@ -122,3 +122,4 @@
 - **2026-05-23**: feat(api): add health check and model versioning metadata endpoints
 - **2026-05-31**: test: add initial unit tests for URL normalization and domain parsing
 - **2026-05-31**: test: add test cases for known Indian banking phishing SMS formats
+- **2026-06-03**: feat(jev): integrate TypeSafe AI jev-1.13.0 System One decision engine
