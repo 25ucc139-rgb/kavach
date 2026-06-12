@@ -125,3 +125,4 @@
 - **2026-06-03**: feat(jev): integrate TypeSafe AI jev-1.13.0 System One decision engine
 - **2026-06-05**: docs: document TypeSafe JEV architecture and offline guarantees
 - **2026-06-09**: feat(pipeline): add explainability report with breakdown of triggered rules
+- **2026-06-12**: feat(frontend): scaffold security operations console user interface
