@@ -126,3 +126,4 @@
 - **2026-06-05**: docs: document TypeSafe JEV architecture and offline guarantees
 - **2026-06-09**: feat(pipeline): add explainability report with breakdown of triggered rules
 - **2026-06-12**: feat(frontend): scaffold security operations console user interface
+- **2026-06-14**: feat(frontend): build live threat score gauge and risk indicator
