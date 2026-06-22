@@ -129,3 +129,4 @@
 - **2026-06-14**: feat(frontend): build live threat score gauge and risk indicator
 - **2026-06-14**: style(ui): apply dark cybersecurity themed glassmorphism design
 - **2026-06-18**: feat(cli): add command-line interface for bulk SMS evaluation
+- **2026-06-22**: feat(data): compile dataset of verified scam samples and benign SMS
