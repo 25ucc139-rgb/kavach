@@ -130,3 +130,4 @@
 - **2026-06-14**: style(ui): apply dark cybersecurity themed glassmorphism design
 - **2026-06-18**: feat(cli): add command-line interface for bulk SMS evaluation
 - **2026-06-22**: feat(data): compile dataset of verified scam samples and benign SMS
+- **2026-06-24**: eval: implement benchmark script to calculate precision and recall
