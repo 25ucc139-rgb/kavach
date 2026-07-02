@@ -132,3 +132,4 @@
 - **2026-06-22**: feat(data): compile dataset of verified scam samples and benign SMS
 - **2026-06-24**: eval: implement benchmark script to calculate precision and recall
 - **2026-06-29**: feat(engine): add prompt injection defense rule and sanitize LLM inputs
+- **2026-07-02**: test(security): add test suite for adversarial jailbreak prompts
