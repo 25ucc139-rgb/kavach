@@ -134,3 +134,4 @@
 - **2026-06-29**: feat(engine): add prompt injection defense rule and sanitize LLM inputs
 - **2026-07-02**: test(security): add test suite for adversarial jailbreak prompts
 - **2026-07-08**: feat(frontend): add English and Hindi bilingual interface switch
+- **2026-07-09**: feat(frontend): add recommended defense actions card for flagged threats
