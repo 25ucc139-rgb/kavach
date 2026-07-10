@@ -104,3 +104,5 @@ Same message but it also asks for the OTP (critical) → forced to 75 → SCAM.
 | Runtime | Ollama (local); llama.cpp / LiteRT-LM on Pi 5 |
 | Agent interface | `SKILL.md` (Agent Skills standard) + JSON CLI |
 | Optional deploy | Public demo of the UI on a DigitalOcean GPU Droplet running the same open model (never a hosted frontier API) |
+
+<!-- Revision: 2026-07-10 - docs: add complete system architecture diagram and pipeline flow -->
