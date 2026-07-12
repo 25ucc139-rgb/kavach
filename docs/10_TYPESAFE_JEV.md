@@ -75,5 +75,3 @@ TYPESAFE_API_KEY="ts_live_..." KAVACH_DECISION_ENGINE=jev python app.py
 ```
 
 When no API key is specified, Kavach's `kavach/jev.py` operates in high-fidelity offline emulator mode, allowing judges to test the typed decision flow at sub-100ms speed without external network calls.
-
-<!-- Revision: 2026-06-05 - docs: document TypeSafe JEV architecture and offline guarantees -->

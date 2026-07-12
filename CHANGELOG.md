@@ -136,3 +136,4 @@
 - **2026-07-08**: feat(frontend): add English and Hindi bilingual interface switch
 - **2026-07-09**: feat(frontend): add recommended defense actions card for flagged threats
 - **2026-07-10**: docs: add complete system architecture diagram and pipeline flow
+- **2026-07-12**: perf: optimize regex compilation to reduce single-message scan time
