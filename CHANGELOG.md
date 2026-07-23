@@ -138,3 +138,4 @@
 - **2026-07-10**: docs: add complete system architecture diagram and pipeline flow
 - **2026-07-12**: perf: optimize regex compilation to reduce single-message scan time
 - **2026-07-16**: fix(engine): reduce false positive rate on OTP verification messages
+- **2026-07-23**: test: add regression test suite against 500+ curated message samples
