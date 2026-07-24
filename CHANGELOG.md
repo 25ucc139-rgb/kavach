@@ -139,3 +139,4 @@
 - **2026-07-12**: perf: optimize regex compilation to reduce single-message scan time
 - **2026-07-16**: fix(engine): reduce false positive rate on OTP verification messages
 - **2026-07-23**: test: add regression test suite against 500+ curated message samples
+- **2026-07-24**: feat(eval): add 3-run evaluation results and ROC curve analysis
