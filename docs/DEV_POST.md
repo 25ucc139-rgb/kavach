@@ -179,3 +179,5 @@ python app.py
 
 Check out the code, open an issue, or add new fraud patterns:
 ⭐ **GitHub:** [https://github.com/chetanayagarwal-oss/kavach](https://github.com/chetanayagarwal-oss/kavach)
+
+<!-- Revision: 2026-07-26 - docs: write comprehensive DEVPOST hackathon pitch and whitepaper -->
