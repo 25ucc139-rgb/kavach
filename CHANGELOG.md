@@ -141,3 +141,4 @@
 - **2026-07-23**: test: add regression test suite against 500+ curated message samples
 - **2026-07-24**: feat(eval): add 3-run evaluation results and ROC curve analysis
 - **2026-07-26**: docs: write comprehensive DEVPOST hackathon pitch and whitepaper
+- **2026-07-28**: feat(frontend): add interactive simulated SMS sandbox testing tool
