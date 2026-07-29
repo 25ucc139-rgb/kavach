@@ -142,3 +142,4 @@
 - **2026-07-24**: feat(eval): add 3-run evaluation results and ROC curve analysis
 - **2026-07-26**: docs: write comprehensive DEVPOST hackathon pitch and whitepaper
 - **2026-07-28**: feat(frontend): add interactive simulated SMS sandbox testing tool
+- **2026-07-29**: feat(rules): add lottery, fake job offer, and KYC update heuristic rules
