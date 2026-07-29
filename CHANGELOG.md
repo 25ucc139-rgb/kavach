@@ -143,3 +143,4 @@
 - **2026-07-26**: docs: write comprehensive DEVPOST hackathon pitch and whitepaper
 - **2026-07-28**: feat(frontend): add interactive simulated SMS sandbox testing tool
 - **2026-07-29**: feat(rules): add lottery, fake job offer, and KYC update heuristic rules
+- **2026-07-29**: refactor: enforce strict python type annotations across all modules
