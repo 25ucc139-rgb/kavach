@@ -145,3 +145,4 @@
 - **2026-07-29**: feat(rules): add lottery, fake job offer, and KYC update heuristic rules
 - **2026-07-29**: refactor: enforce strict python type annotations across all modules
 - **2026-07-29**: feat(skills): add automated security assistant skills specification
+- **2026-07-31**: fix(cli): handle file encoding edge cases on Windows systems
