@@ -146,3 +146,4 @@
 - **2026-07-29**: refactor: enforce strict python type annotations across all modules
 - **2026-07-29**: feat(skills): add automated security assistant skills specification
 - **2026-07-31**: fix(cli): handle file encoding edge cases on Windows systems
+- **2026-08-04**: perf: achieve sub-12ms inference latency for fully offline execution
