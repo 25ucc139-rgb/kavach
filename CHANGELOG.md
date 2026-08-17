@@ -149,3 +149,4 @@
 - **2026-08-04**: perf: achieve sub-12ms inference latency for fully offline execution
 - **2026-08-07**: docs: add API documentation and request payload examples
 - **2026-08-16**: feat(frontend): add exportable PDF security incident summary report
+- **2026-08-17**: feat(heuristics): add APK download link detector and warnings
