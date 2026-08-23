@@ -152,3 +152,4 @@
 - **2026-08-17**: feat(heuristics): add APK download link detector and warnings
 - **2026-08-18**: test: add unit tests for bilingual Hindi scam vocabulary detection
 - **2026-08-20**: ci: configure GitHub Actions workflow for pytest and ruff linting
+- **2026-08-23**: feat(engine): add confidence threshold adjustment via environment variable
