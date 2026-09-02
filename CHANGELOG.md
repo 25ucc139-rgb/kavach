@@ -154,3 +154,4 @@
 - **2026-08-20**: ci: configure GitHub Actions workflow for pytest and ruff linting
 - **2026-08-23**: feat(engine): add confidence threshold adjustment via environment variable
 - **2026-08-29**: style(frontend): refine animated threat level pulsing radar animation
+- **2026-09-02**: fix: patch edge case where message contains only emoji or punctuation
