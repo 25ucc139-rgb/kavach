@@ -156,3 +156,4 @@
 - **2026-08-29**: style(frontend): refine animated threat level pulsing radar animation
 - **2026-09-02**: fix: patch edge case where message contains only emoji or punctuation
 - **2026-09-05**: docs: publish threat model analysis and privacy compliance whitepaper
+- **2026-09-09**: feat(frontend): add keyboard shortcuts for quick message analysis
