@@ -158,3 +158,4 @@
 - **2026-09-05**: docs: publish threat model analysis and privacy compliance whitepaper
 - **2026-09-09**: feat(frontend): add keyboard shortcuts for quick message analysis
 - **2026-09-14**: refactor: streamline exception handling and user-facing error messages
+- **2026-09-20**: test: add load testing benchmark simulating 100 concurrent requests
