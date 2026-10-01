@@ -160,3 +160,4 @@
 - **2026-09-14**: refactor: streamline exception handling and user-facing error messages
 - **2026-09-20**: test: add load testing benchmark simulating 100 concurrent requests
 - **2026-09-24**: feat(frontend): add copy report to clipboard with formatted markdown
+- **2026-10-01**: perf: minimize memory footprint to under 45MB RAM for edge devices
