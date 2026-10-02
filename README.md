@@ -139,3 +139,5 @@ MIT — see [LICENSE](LICENSE).
 <!-- Revision: 2026-10-27 - chore: bump version to v1.0.0 production milestone release -->
 
 <!-- Revision: 2026-07-24 - feat(eval): add 3-run evaluation results and ROC curve analysis -->
+
+<!-- Revision: 2026-10-02 - docs: add cover banner and presentation pitch metrics to docs -->

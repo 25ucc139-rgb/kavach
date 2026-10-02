@@ -161,3 +161,4 @@
 - **2026-09-20**: test: add load testing benchmark simulating 100 concurrent requests
 - **2026-09-24**: feat(frontend): add copy report to clipboard with formatted markdown
 - **2026-10-01**: perf: minimize memory footprint to under 45MB RAM for edge devices
+- **2026-10-02**: docs: add cover banner and presentation pitch metrics to docs
