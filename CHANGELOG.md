@@ -162,3 +162,4 @@
 - **2026-09-24**: feat(frontend): add copy report to clipboard with formatted markdown
 - **2026-10-01**: perf: minimize memory footprint to under 45MB RAM for edge devices
 - **2026-10-02**: docs: add cover banner and presentation pitch metrics to docs
+- **2026-10-11**: feat(frontend): add audio alert chime on high-risk scam detection
