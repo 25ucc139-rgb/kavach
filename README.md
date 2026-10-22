@@ -137,5 +137,3 @@ kavach/
 MIT — see [LICENSE](LICENSE).
 
 <!-- Revision: 2026-10-27 - chore: bump version to v1.0.0 production milestone release -->
-
-<!-- Revision: 2026-10-19 - docs: update README with installation guide, benchmarks, and license -->
